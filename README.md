@@ -8,3 +8,7 @@ Business Solution:
 
  Implemented real-time data updates and interactive features, improving accessibility for stakeholders.  Analyzed sales data to identify trends, opportunities for growth, and areas for optimizing resource allocation and strategic planning.
 
+
+References:- 
+
+[1] - https://www.youtube.com/watch?v=qjjt87YoOMg
